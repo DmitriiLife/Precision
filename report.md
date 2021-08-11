@@ -8,7 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [Дефект](https://github.com/DmitriiLife/java4/issues/1)
+* [issue](https://github.com/DmitriiLife/java4/issues/1)
 
 ## Описание процесса тестирования
 
